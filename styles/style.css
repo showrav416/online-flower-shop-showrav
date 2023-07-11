@@ -113,3 +113,47 @@ body {
   text-decoration-line: underline;
   padding-top: 32px;
 }
+
+/* flower customer support section styles */
+.flower-customer-support-container {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 128px 0;
+}
+
+.flower-customer-support {
+  border-radius: 8px;
+  background: rgba(39, 39, 39, 0.05);
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  /* gap: 100px; */
+  padding: 87px 0;
+  /* margin: 0 12%; */
+}
+
+.same-day-delivery,
+.fresh-flower,
+.support {
+  text-align: center;
+}
+
+.same-day-delivery img,
+.fresh-flower img,
+.support img {
+  padding-bottom: 24px;
+}
+
+.same-day-delivery-desc {
+  color: rgba(39, 39, 39, 0.8);
+  /* text-align: center; */
+  font-size: 24px;
+  font-weight: 700; /* font weight 600 is not available on google font */
+  line-height: 35px;
+}
+
+/* sign-up section styles
+.sign-up-part {
+  border-radius: 8px;
+  background-color: rgba(229, 84, 115, 0.05);
+} */
