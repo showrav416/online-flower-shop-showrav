@@ -184,3 +184,41 @@ body {
   justify-content: center;
   gap: 24px;
 }
+
+/* submit section styles */
+.submit-sec {
+  background-image: url("../flower-asset/Rectangle9.png");
+  background-repeat: no-repeat;
+  padding: 122px 0;
+  width: 1440px;
+  margin: 0 auto;
+  margin-bottom: 128px;
+}
+
+.submit-description {
+  text-align: center;
+}
+
+.submit-form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.submit-label {
+  margin-right: 16px;
+}
+
+input::placeholder {
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 16px;
+  font-weight: 400;
+  padding-left: 22px;
+}
+
+.flower-email {
+  width: 700px;
+  height: 64px;
+  border: none;
+  border-radius: 8px;
+}
