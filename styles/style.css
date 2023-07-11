@@ -152,8 +152,22 @@ body {
   line-height: 35px;
 }
 
-/* sign-up section styles
+/* sign-up section styles */
 .sign-up-part {
   border-radius: 8px;
   background-color: rgba(229, 84, 115, 0.05);
-} */
+  padding: 100px 0;
+}
+.sign-up-part-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.sign-up-title-desc {
+  text-align: center;
+}
+
+.sign-up-off {
+  color: #e55473;
+}
