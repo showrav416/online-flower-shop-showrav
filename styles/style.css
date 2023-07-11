@@ -76,8 +76,6 @@ body {
 .featured-flower {
   margin-top: 178px;
 }
-.flower-title-description {
-}
 
 .type-of-flowers {
   display: flex;
@@ -127,9 +125,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-evenly;
-  /* gap: 100px; */
   padding: 87px 0;
-  /* margin: 0 12%; */
 }
 
 .same-day-delivery,
@@ -146,7 +142,6 @@ body {
 
 .same-day-delivery-desc {
   color: rgba(39, 39, 39, 0.8);
-  /* text-align: center; */
   font-size: 24px;
   font-weight: 700; /* font weight 600 is not available on google font */
   line-height: 35px;
