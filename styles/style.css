@@ -157,6 +157,7 @@ body {
   border-radius: 8px;
   background-color: rgba(229, 84, 115, 0.05);
   padding: 100px 0;
+  margin-bottom: 128px;
 }
 .sign-up-part-container {
   display: flex;
@@ -170,4 +171,16 @@ body {
 
 .sign-up-off {
   color: #e55473;
+}
+
+/* instagram section styles */
+.instagram-sec {
+  margin-bottom: 128px;
+}
+
+.instagram-pictures {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
 }
